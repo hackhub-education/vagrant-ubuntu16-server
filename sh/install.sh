@@ -11,8 +11,5 @@ sudo apt-get install -y mongodb-org  # INSTALL MONGODB
 
 sudo apt install nginx -y
 
-# sudo apt-get install -y mongodb-org  # INSTALL MONGODB
-# sudo apt-get install nodejs  # INSTALL NODEJS
-
-# sudo systemctl start mongod
-# sudo systemctl enable mongod
+sudo systemctl start mongod
+sudo systemctl enable mongod
