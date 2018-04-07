@@ -1,5 +1,9 @@
 # vagrant-ubuntu16-server
 
+### Need Two of the followings to work
+- VirtualBox (<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">Download</a>)
+- Vagrant (<a href="https://www.vagrantup.com/downloads.html" target="_blank">Download</a>)
+
 ### IF ERROR MESSAGE on Ubuntu
 It appears your machine doesn't support NFS, or there is not an  
 adapter to enable NFS on this machine for Vagrant. Please verify  
